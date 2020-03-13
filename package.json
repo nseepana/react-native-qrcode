@@ -17,6 +17,12 @@
     "url": "https://github.com/cssivision/react-native-qrcode/issues"
   },
   "homepage": "https://github.com/cssivision/react-native-qrcode#readme",
+  "peerDependencies": {
+    "prop-types": ">=15.5.10",
+    "react": "*",
+    "react-native": "*",
+    "react-native-webview": "*"
+  },
   "dependencies": {
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
